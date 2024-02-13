@@ -1,0 +1,64 @@
+---
+layout: default
+title: Blog
+description: the blog of ternera
+featured_image: /images/profile.jpg
+---
+
+<div class="page-blog">
+	<header class="header--single">
+		<div class="wrap">
+			<h1 class="header__title">Blog</h1>
+			<p class="header__subtitle subtitle--light">my adventures on the internet</p>
+		</div>
+	</header>
+
+	<section class="all-posts">
+		<div class="wrap">
+			<div class="posts__list grid">
+				{% for post in paginator.posts %}
+				{% if forloop.first == true %}
+				<article class="post post-new">
+					<div class="grid">
+						<a href="{{ post.url | relative_url }}">
+							<div class="post__image{% if paginator.page == 1 %} post__image--new{% endif %}"
+								style="background-image: url({{ post.featured_image | relative_url }})">
+							</div>
+						</a>
+
+						<div class="post__content-wrap">
+							<div class="post__content">
+								<time class="post__date label--small">{{ post.date | date: "%B %d, %Y" }}</time>
+								<h2 class="post__title h4"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+								<p class="post__subtitle">{{ post.subtitle }}</p>
+								<p class="post__description">{{ post.description }}</p>
+								<a href="{{ post.url | relative_url }}" class="post__link button--text--accent --right">Keep Reading</a>
+							</div>
+						</div>
+					</div>
+				</article>
+				{% else %}
+				{% include component__post-preview.html %}
+				{% endif %}
+				{% endfor %}
+			</div>
+		</div>
+	</section>
+
+	{% if paginator.total_pages > 1 %}
+
+	<section class="pagination">
+		<div class="wrap">
+			{% if paginator.previous_page %}
+			<a href="{{ paginator.previous_page_path | relative_url }}"
+				class="button--text--accent --left pagination__prev">Newer Posts</a>
+			{% endif %}
+			{% if paginator.next_page %}
+			<a href="{{ paginator.next_page_path | relative_url }}"
+				class="button--text--accent --right pagination__next">Older Posts</a>
+			{% endif %}
+		</div>
+	</section>
+
+	{% endif %}
+</div>

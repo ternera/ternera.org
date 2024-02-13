@@ -1,0 +1,42 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Single project
+
+// - - - - - - - - - - - - - - - - - -
+
+.page-project {
+  @extend .page-post;
+
+  .post__subtitle {
+    margin-bottom: 48px;
+    max-width: 556px;
+  }
+
+  .post__content {
+    hr {
+      background-color: var(--accent);
+    }
+
+    blockquote {
+      border-left-color: var(--accent);
+    }
+
+    table:not(.rouge-table) {
+      border: 2px solid var(--accent);
+
+      thead {
+        background: var(--accent);
+      }
+    }
+
+    .gallery--carousel .owl-dot.active::after {
+      background: var(--accent);
+    }
+  }
+
+  @include mq(tabletp) {
+    .post__subtitle {
+      margin-bottom: 80px;
+    }
+  }
+}

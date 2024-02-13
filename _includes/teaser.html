@@ -1,0 +1,29 @@
+{% if page.next or page.previous %}
+	<!--{% if page.previous %}
+		{% assign teaser = page.previous %}
+	{% elsif page.next  %}
+		{% assign teaser = page.next %}
+	{% endif %}
+
+	{% if teaser.gradient and teaser.gradient > 0 and teaser.gradient < 6 %}
+		{% assign gradient = teaser.gradient %}
+	{% else %}
+		{% assign gradient = 1 %}
+	{% endif %}
+
+	<section class="teaser gradient-{{ gradient }}" data-animation="fadeInUp">
+		<div class="excerpt">
+			<span class="title">{{ reading_time_as_i }}</span>
+			{% if teaser.title %}
+				<h1><a href="{{ teaser.url | prepend: site.baseurl }}" title="{{ teaser.title }}">{{ teaser.title }}</a></h1>
+			{% endif %}
+
+			<p>{{ teaser.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+
+			{% if teaser.date or teaser.categories %}
+				<span class="meta">Published {{ teaser.date | date: '%b %-d, %Y' | prepend: '<b>' | append: '</b>' }} {{ teaser.categories | join: ', ' | prepend: 'in <b>' | append: '</b>' }}</span>
+			{% endif %}
+
+		</div>
+	</section>-->
+{% endif %}

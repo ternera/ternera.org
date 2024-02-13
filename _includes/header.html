@@ -1,0 +1,31 @@
+<header class="header--main">
+
+	<div class="wrap grid__2-col">
+
+		<a href="{{ site.baseurl }}/" class="header__title">
+			{{ site.data.settings.basics.site_title }}
+		</a>
+
+		<div class="menu__toggle js-menu-toggle">
+			<div class="menu__toggle__icon"><span></span></div>
+		</div>
+
+		<nav class="header__menu">
+			<div class="menu__wrap">
+				<ul class="menu__list">
+					{% for item in site.data.settings.menu_settings.menu_items %}
+					<li class="menu__list__item">
+						<a href="{{ item.url | relative_url }}" class="menu__list__item__link button--text">{{ item.title }}</a>
+					</li>
+					{% endfor %}
+					<li class="menu__cta">
+						<a href="#" class="menu__cta__link button--text contact-trigger js-contact">Get In Touch</a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+
+		<a href="#" class="header__cta button--fill contact-trigger js-contact">Get In Touch</a>
+	</div>
+
+</header>

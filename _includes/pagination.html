@@ -1,0 +1,13 @@
+{% if page.previous or page.next %}
+	<div class="pagination" data-animation="fadeInUp">
+		{% if page.previous %}<a href="{{ page.previous.url }}" title="View Older Posts" class="button older">Older</a>{% endif %}
+		{% if page.next %}<a href="{{ page.next.url }}" title="View Newer Posts" class="button newer">Newer</a>{% endif %}
+	</div>
+{% endif %}
+
+{% if paginator.previous_page or paginator.next_page %}
+	<div class="pagination" data-animation="fadeInUp">
+		{% if paginator.next_page %}<a href="{{ paginator.next_page_path | replace: '//', '/' }}" title="View Newer Posts" class="button older">Older</a>{% endif %}
+		{% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | replace: '//', '/' }}" title="View Older Posts" class="button newer">Newer</a>{% endif %}
+	</div>
+{% endif %}

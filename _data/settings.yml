@@ -1,0 +1,146 @@
+basics:
+  site_title: ternera
+  favicon_image: /images/favicon.ico
+
+header_settings:
+  logo_image: 
+  logo_width: 100
+
+menu_settings:
+  menu_items:
+    - title: 'Projects'
+      url: '/'
+    - title: 'Blog'
+      url: '/blog/'
+
+hero_settings:
+  background_image: /images/backgrounds/background-hero.svg
+
+social_settings:
+  twitter_url: 'https://twitter.com/ternera'
+  reddit_url: 'https://reddit.com/u/ternera'
+  youtube_url: ''
+  vimeo_url: ''
+  medium_url: 'https://medium.com/@ternera'
+  github_url: 'https://github.com/ternera'
+  linkedin_url: ''
+  discord_url: 'https://discord.com/users/95596106376814592'
+
+
+color_settings:
+  background_color: '#ffffff'
+  background_alt_color: '#f4f5f6'
+  text_dark_color: '#202224'
+  text_medium_color: '#6C7A89'
+  text_light_color: '#AEB3BB'
+  accent_color: '#4C60E6'
+  border_color: '#ECEDEF'
+  error_color: '#D64541'
+
+font_settings:
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Ubuntu+Mono:400,700" rel="stylesheet">'
+  title_font: 'Rubik, sans-serif'
+  body_font: '"Ubuntu Mono", sans-serif'
+  regular_weight: 400
+  bold_weight: 700
+  site_title:
+    small_size: 30
+    medium_size: 40
+    large_size: 45
+    weight: 700
+    letter_spacing: -0.02
+  menu:
+    small_size: 30
+    medium_size: 15
+    large_size: 17
+    weight: 600
+    letter_spacing: 0
+  h1:
+    size: 64
+    size_small: 42
+    weight: 700
+    letter_spacing: -1.5
+    letter_spacing_small: -1.2
+    line_height: 72
+    line_height_small: 48
+  h2:
+    size: 48
+    size_small: 36
+    weight: 700
+    letter_spacing: -1.6
+    letter_spacing_small: -1.04
+    line_height: 56
+    line_height_small: 44
+  h3:
+    size: 40
+    size_small: 30
+    weight: 700
+    letter_spacing: -1.4
+    letter_spacing_small: -0.54
+    line_height: 48
+    line_height_small: 36
+  h4:
+    size: 32
+    size_small: 28
+    weight: 700
+    letter_spacing: -1
+    letter_spacing_small: -0.6
+    line_height: 36
+  h5:
+    small_size: 17
+    medium_size: 20
+    large_size: 20
+    weight: 700
+    letter_spacing: 0
+    line_height: 1.6
+  h6:
+    small_size: 17
+    medium_size: 20
+    large_size: 20
+    weight: 700
+    letter_spacing: 0
+    line_height: 1.6
+  subtitle:
+    size: 22
+    size_small: 20
+    weight_regular: 400
+    weight_heavy: 500
+    letter_spacing: 0.16
+    letter_spacing_small: 0.2
+    line_height: 32
+    line_height_small: 28
+  p:
+    size: 18
+    size_small: 17
+    weight: 400
+    letter_spacing: 0.04
+    letter_spacing_small: 0
+    line_height: 28
+  p_small:
+    size: 16
+    size_small: 15
+    weight: 400
+    letter_spacing: 0
+    line_height: 24
+  label:
+    size: 14
+    small_size: 12
+    weight: 500
+    letter_spacing: 0.8
+    small_letter_spacing: 0.5
+    line_height: 16
+  footnote:
+    size: 13
+    weight: 400
+    letter_spacing: -0.04
+    line_height: 12
+  blockquote:
+    small_size: 18
+    medium_size: 20
+    large_size: 22
+    weight: 500
+    letter_spacing: -0.02
+    line_height: 1.6
+  buttons:
+    weight: 500
+    letter_spacing: 0.4

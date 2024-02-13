@@ -1,0 +1,41 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Structure
+
+// - - - - - - - - - - - - - - - - - -
+
+.page,
+.page__content {
+	width: 100%;
+}
+
+.wrap {
+	position: relative;
+	margin: 0 auto;
+  padding: 0 30px;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.grid {
+	display: grid;
+	grid-gap: 30px;
+
+	&__2-col {
+    @extend .grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  &__3-col {
+    @extend .grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @include mq(tabletp) {
+    grid-gap: 30px;
+  }
+}
+
+.locked {
+  overflow: hidden;
+}

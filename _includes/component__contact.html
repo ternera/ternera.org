@@ -1,0 +1,38 @@
+<section class="contact">
+  <button class="button--close-modal"></button>
+
+  <div class="wrap">
+    <div class="contact__wrap">
+      <header class="contact__header">
+        <h2 class="title">Get In Touch</h2>
+        <p class="subtitle--light">Prefer using email? Say hi at <a href="mailto:hi@ternera.org">hi@ternera.org</a>
+        </p>
+      </header>
+
+      <form method="POST" action="https://formspree.io/xkndrgap" class="contact__form">
+        <div class="input-group">
+          <label for="name">Your Name</label>
+          <input type="text" name="name" id="name" placeholder="What should I call you?" />
+        </div>
+
+        <div class="input-group">
+          <label for="email">Your Email</label>
+          <input type="email" name="email" id="email" placeholder="What's your email address?" />
+        </div>
+
+        <div class="input-group">
+          <label for="message">Your Message</label>
+          <textarea name="message" id="message" placeholder="What’s on your mind?" rows="4"></textarea>
+        </div>
+
+        <input type="hidden" name="_next" value="https://ternera.org/thanks" />
+        <input type="hidden" name="_subject" value="Website Contact Made" />
+        <input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="">
+
+        <div class="input-submit">
+          <input type="submit" class="button--fill" value="shoot">
+        </div>
+      </form>
+    </div>
+  </div>
+</section>

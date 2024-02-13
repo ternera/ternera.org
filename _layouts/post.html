@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<div class="page-post">
+
+	<header class="post__header header--single">
+		
+		<div class="wrap">
+			<h1 class="post__title">{{ page.title }}</h1>
+			<time class="post__date label">{{ page.date | date_to_long_string }}</time>
+		</div>
+
+		{% if page.featured_image != '' %}
+		<img src="{{ page.featured_image | relative_url }}" class="post__featured-image">
+		{% endif %}
+
+	</header>
+
+	<section class="post-full">
+
+		<div class="wrap">
+
+			<article class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
+				{{ page.content }}
+			</article>
+
+			<div class="post__more grid">
+				{% if page.previous.url %}
+				<a class="prev-post subtitle" href="{{ page.previous.url | relative_url }}">{{page.previous.title}}</a>
+				{% endif %}
+				{% if page.next.url %}
+				<a class="next-post subtitle" href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
+				{% endif %}
+			</div>
+
+		</div>
+
+	</section>
+
+</div>

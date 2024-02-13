@@ -1,0 +1,73 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Section - Hero
+
+// - - - - - - - - - - - - - - - - - -
+
+
+.hero {
+	position: relative;
+	padding: 40px 0 160px;
+
+	.wrap {
+		grid-gap: 0;
+	}
+
+	.title {
+		margin-bottom: 24px;
+		max-width: 380px;
+	}
+
+	.title .subtitle {
+		margin-bottom: 8px;
+	}
+
+	.intro {
+		position: relative;
+		max-width: 340px;
+	}
+
+	.hero__cta {
+		position: absolute;
+		left: 0;
+		bottom: -70px;
+	}
+
+	@include mq(tabletp) {
+		padding: 40px 0 180px;
+
+		.wrap {
+			grid-template-columns: 1fr 1fr;
+		}
+
+		.title {
+			margin-bottom: 0;
+			max-width: none;
+		}
+
+		.intro {
+			align-self: end;
+			margin-bottom: -80px;
+			max-width: 458px;
+		}
+
+		.hero__cta {
+			display: none;
+		}
+	}
+}
+
+.hero__background {
+	display: block;
+	position: absolute;
+	top: 0px;
+	left: 50%;
+	transform: translateX(-50%);
+	z-index: -1;
+	max-width: 190%;
+	display: none;
+
+	@include mq(tabletp) {
+		display: block;
+	}
+}
