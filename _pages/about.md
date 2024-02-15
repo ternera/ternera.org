@@ -1,4 +1,4 @@
- ---
+<!-- ---
 title: About
 image: ternera-2016-cropped.jpg
 ---
@@ -11,7 +11,7 @@ Hi, I'm AJ. I'm a programmer that hails from Earth.
 - [twitter](https://twitter.com/ternera)
 - [github](https://github.com/ternera)
 - [youtube](https://www.youtube.com/@thieves)
-<!-- - [facebook](http://facebook.com/)-->
+- [facebook](http://facebook.com/)
 
 ### My Work
 These days I'm focused on [Reddit](https://www.reddit.com) and keeping other online communities clean.
