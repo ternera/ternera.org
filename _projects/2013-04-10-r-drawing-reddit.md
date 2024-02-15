@@ -1,8 +1,8 @@
 ---
-title: Reddit Moderation
-subtitle: Moderating communities on Reddit.
+title: Community Management
+subtitle: Moderating and managing communities online.
 date: 2013-04-10 00:38:10 PDT
-description: The r/drawing Discord server has given me qutie a bit of experience moderating a large subreddit.
+description: Managing online communities has given me experience serving people, removing inappropriate content from the web, and learning to be part of a team.
 featured_image: ''
 accent_color: '#800F0F'
 gallery_images: 
