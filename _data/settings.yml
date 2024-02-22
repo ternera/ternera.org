@@ -17,7 +17,7 @@ hero_settings:
   background_image: /images/backgrounds/background-hero.svg
 
 social_settings:
-  twitter_url: 'https://twitter.com/ternera'
+  instagram_url: 'https://instagram.com/ternera'
   reddit_url: 'https://reddit.com/u/ternera'
   youtube_url: ''
   vimeo_url: ''
@@ -25,6 +25,7 @@ social_settings:
   github_url: 'https://github.com/ternera'
   linkedin_url: ''
   discord_url: 'https://discord.com/users/95596106376814592'
+  twitter_url: 'https://twitter.com/ternera'
 
 
 color_settings:
