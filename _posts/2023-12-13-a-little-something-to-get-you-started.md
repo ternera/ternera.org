@@ -20,4 +20,5 @@ We can manually append /background.png to the URL, which reveals the flag.
 
 ![Image 2](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*j78sG9rMVnVWdeR7pG4-0Q.png)
 
-PS: While working on this, I listened to music from these sweet headphones from Amazon. You should check them out [here](https://amzn.to/4bCsb0Y)! I receive a small commission when you make a purchase, but there is no extra cost for you.
+We may make a small commission from affiliate links and purchases using the link.
+PS: While working on this, I listened to music from these sweet headphones from Amazon. You should check them out [here](https://amzn.to/4bCsb0Y)!
