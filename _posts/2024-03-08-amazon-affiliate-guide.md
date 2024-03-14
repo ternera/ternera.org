@@ -1,7 +1,7 @@
 ---
 title: How to Use Amazon Affiliate Links: A Step-by-Step Guide
 date: 2024-03-08 00:00:00 -0800
-featured_image: ''
+featured_image: 'null.png'
 ---
 
 Introduction:
