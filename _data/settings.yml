@@ -17,8 +17,8 @@ hero_settings:
   background_image: /images/backgrounds/background-hero.svg
 
 social_settings:
-  instagram_url: ''
   reddit_url: 'https://reddit.com/u/ternera'
+  instagram_url: ''
   youtube_url: ''
   vimeo_url: ''
   medium_url: 'https://medium.com/@ternera'
