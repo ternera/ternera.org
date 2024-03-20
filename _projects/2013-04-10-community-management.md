@@ -8,4 +8,4 @@ accent_color: '#800F0F'
 gallery_images: 
 ---
 
-At the time of writing, I manage communities with a total of over 10 million members! Most of this community management is done on Reddit, where I lead teams of moderators.
+At the time of writing, I manage communities with a total of over 12 million members! Most of this community management is done on Reddit, where I lead teams of moderators.
