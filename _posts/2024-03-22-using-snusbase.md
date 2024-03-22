@@ -8,8 +8,8 @@ For the first time today, I tried using the data breach search engine: Snusbase.
 
 As you can see from the example below, I tried searching for ```bob@bob.com``` and ```testname``` for testing purposes.
 
-![Image 1](/images/posts/snusbase1.png)
+![Image 1](/images/posts/snusbase1.PNG)
 
-![Image 1](/images/posts/snusbase2.png)
+![Image 1](/images/posts/snusbase2.PNG)
 
 If you have email addresses and/or usernames of yours that you wish to search for, I highly recommend trying this search engine out since it's only $6 for a week of use. This post was not sponsored by Snusbase in any way.
