@@ -8,4 +8,5 @@ accent_color: '#800F0F'
 gallery_images: 
 ---
 
-At the time of writing, I manage communities with a total of over 12 million members! Most of this community management is done on Reddit, where I lead teams of moderators.
+At the time of writing, I lead communities with a total of over 16 million members! Most of this community management is done on Reddit, where I keep subreddits running smoothly.
+This has taught me how to configure automoderator through coding and I have learned a little bit about regular expressions. I've also learned how to respond politely/efficiently to members who request help and resolve conflicts that arise.
