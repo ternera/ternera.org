@@ -6,3 +6,5 @@ description: I've enjoyed troubleshooting computer problems. This has led me dow
 featured_image: ''
 accent_color: '#4C60E6'
 ---
+
+I've become familiar with Windows and Linux ecosystems and basic helpdesk/troubleshooting techniques.
