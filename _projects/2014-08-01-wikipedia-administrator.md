@@ -22,3 +22,10 @@ https://en.wikipedia.org/wiki/Wikipedia:User_scripts/List
 https://en.wikipedia.org/wiki/Special:RandomInCategory/All_articles_lacking_sources
 https://en.wikipedia.org/wiki/Special:PrefixIndex/User:Ternera/
 https://en.wikipedia.org/wiki/Special:RandomInCategory/All_articles_lacking_sources
+
+Useful Links for Global Anti-Vandalism Work: 
+https://meta.wikimedia.org/wiki/Talk:Spam_blacklist#Requests_for_addition
+https://meta.wikimedia.org/wiki/Wikimedia_projects
+https://meta.wikimedia.org/wiki/Steward_requests/Permissions
+https://meta.wikimedia.org/wiki/Global_sysops/Requests
+https://global-search.toolforge.org/
