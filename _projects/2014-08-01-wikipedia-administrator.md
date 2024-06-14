@@ -11,19 +11,29 @@ I work as an Administrator on Wikipedia. Most of my time is spent keeping the Ki
 
 ## Useful Links:
 [Help:Cheatsheet](https://en.wikipedia.org/wiki/Help:Cheatsheet)\
-[Wikipedia:Glossary](https://en.wikipedia.org/wiki/Wikipedia:Glossary)
-[Wikipedia:Reference_desk](https://en.wikipedia.org/wiki/Wikipedia:Reference_desk)
-[Articles_for_deletion](https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion)
-[Criteria_for_speedy_deletion#Non-criteria](https://en.wikipedia.org/wiki/Wikipedia:Criteria_for_speedy_deletion#Non-criteria)
-[Redirects_for_discussion](https://en.wikipedia.org/wiki/Wikipedia:Redirects_for_discussion)
-[Wikipedia:Requested_moves](https://en.wikipedia.org/wiki/Wikipedia:Requested_moves)
-[Special:SpecialPages](https://en.wikipedia.org/wiki/Special:SpecialPages)
-[Wikipedia:User_scripts/List](https://en.wikipedia.org/wiki/Wikipedia:User_scripts/List)
-[Special:RandomInCategory/All_articles_lacking_sources](https://en.wikipedia.org/wiki/Special:RandomInCategory/All_articles_lacking_sources)
+[Wikipedia:Glossary](https://en.wikipedia.org/wiki/Wikipedia:Glossary)\
+[Wikipedia:Reference_desk](https://en.wikipedia.org/wiki/Wikipedia:Reference_desk)\
+[Articles_for_deletion](https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion)\
+[Criteria_for_speedy_deletion#Non-criteria](https://en.wikipedia.org/wiki/Wikipedia:Criteria_for_speedy_deletion#Non-criteria)\
+[Redirects_for_discussion](https://en.wikipedia.org/wiki/Wikipedia:Redirects_for_discussion)\
+[Wikipedia:Requested_moves](https://en.wikipedia.org/wiki/Wikipedia:Requested_moves)\
+[Special:SpecialPages](https://en.wikipedia.org/wiki/Special:SpecialPages)\
+[Wikipedia:User_scripts/List](https://en.wikipedia.org/wiki/Wikipedia:User_scripts/List)\
+[Special:RandomInCategory/All_articles_lacking_sources](https://en.wikipedia.org/wiki/Special:RandomInCategory/All_articles_lacking_sources)\
+[Special:PendingChanges](https://en.wikipedia.org/wiki/Special:PendingChanges)\
+[Special:RecentChanges](https://en.wikipedia.org/wiki/Special:RecentChanges?hidebots=1&hidecategorization=1&hideWikibase=1&limit=50&days=7&urlversion=2)\
+[Special:Log/newusers](https://en.wikipedia.org/wiki/Special:Log/newusers)\
 
 ## Useful Links for Global Anti-Vandalism Work: 
-[Talk:Spam_blacklist#Requests_for_addition](https://meta.wikimedia.org/wiki/Talk:Spam_blacklist#Requests_for_addition)
-[Wikimedia_projects](https://meta.wikimedia.org/wiki/Wikimedia_projects)
-[Steward_requests/Permissions](https://meta.wikimedia.org/wiki/Steward_requests/Permissions)
-[Global_sysops/Requests](https://meta.wikimedia.org/wiki/Global_sysops/Requests)
-[Global Search](https://global-search.toolforge.org/)
+[Talk:Spam_blacklist#Requests_for_addition](https://meta.wikimedia.org/wiki/Talk:Spam_blacklist#Requests_for_addition)\
+[Wikimedia_projects](https://meta.wikimedia.org/wiki/Wikimedia_projects)\
+[Steward_requests/Permissions](https://meta.wikimedia.org/wiki/Steward_requests/Permissions)\
+[Global_sysops/Requests](https://meta.wikimedia.org/wiki/Global_sysops/Requests)\
+[Global Search](https://global-search.toolforge.org/)\
+[Wikipedia:Administrator intervention against vandalism](https://www.wikidata.org/wiki/Q10817957)\
+
+## Useful Links for Commons Work:
+
+[Commons:How_to_detect_copyright_violations](https://commons.wikimedia.org/wiki/Commons:How_to_detect_copyright_violations)\
+[Commons:Deletion_policy#Copyright_violation](https://commons.wikimedia.org/wiki/Commons:Deletion_policy#Copyright_violation)\
+[Special:NewFiles](https://commons.wikimedia.org/wiki/Special:NewFiles)\
