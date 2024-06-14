@@ -72,6 +72,8 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw-ucrt
+  x86_64-linux
 
 DEPENDENCIES
   activesupport
@@ -81,4 +83,4 @@ DEPENDENCIES
   rake
 
 BUNDLED WITH
-   2.0.2
+   2.5.12
