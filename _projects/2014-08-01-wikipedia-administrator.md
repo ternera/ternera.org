@@ -37,3 +37,8 @@ I work as an Administrator on Wikipedia. Most of my time is spent keeping the Ki
 [Commons:How_to_detect_copyright_violations](https://commons.wikimedia.org/wiki/Commons:How_to_detect_copyright_violations)\
 [Commons:Deletion_policy#Copyright_violation](https://commons.wikimedia.org/wiki/Commons:Deletion_policy#Copyright_violation)\
 [Special:NewFiles](https://commons.wikimedia.org/wiki/Special:NewFiles)\
+
+For anyone interested in anti-vandalism work, I suggest looking at the tools below. I use Huggle for enwiki work and SWViewer for global work.\
+[Huggle](https://meta.wikimedia.org/wiki/Huggle)\
+[SWViewer](https://meta.wikimedia.org/wiki/SWViewer)\
+Although I have never been part of it, the [CVU (Counter Vandalism Unit)](Wikipedia:CVU) is an interesting program 
