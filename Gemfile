@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem "rake"
 gem "activesupport"
-gem "jekyll", "~> 3.9"
+gem "jekyll", "~> 4.0"
 
 group :jekyll_plugins do
   gem "jekyll-paginate"
