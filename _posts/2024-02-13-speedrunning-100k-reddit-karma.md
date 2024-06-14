@@ -10,4 +10,4 @@ I found a subreddit without restrictions and was able to grow a post to nearly 5
 
 It has been 24 days since I began this experiement and I have now reached 174,000 karma. My next goal is to speedrun getting to 1,000,000 karma. I will write a blog article once I reach this goal.
 
-Edit 2024-06-14: Reached 1 million karma today!
+Edit 2024-06-14: Reached 1 million karma today.
