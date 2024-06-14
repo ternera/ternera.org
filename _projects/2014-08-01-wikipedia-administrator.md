@@ -10,7 +10,7 @@ accent_color: '#79589F'
 I work as an Administrator on Wikipedia. Most of my time is spent keeping the Kinyarwanda version of the site clean and free of spam.
 
 ## Useful Links:
-[Help:Cheatsheet](https://en.wikipedia.org/wiki/Help:Cheatsheet)
+[Help:Cheatsheet](https://en.wikipedia.org/wiki/Help:Cheatsheet)\
 [Wikipedia:Glossary](https://en.wikipedia.org/wiki/Wikipedia:Glossary)
 [Wikipedia:Reference_desk](https://en.wikipedia.org/wiki/Wikipedia:Reference_desk)
 [Articles_for_deletion](https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion)
