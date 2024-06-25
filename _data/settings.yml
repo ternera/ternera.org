@@ -27,7 +27,7 @@ social_settings:
   discord_url: 'https://discord.gg/ternera'
   twitter_url: ''
   spotify_url: 'https://open.spotify.com/user/31uyi4f227ggbuf6shvi5e7wkjai'
-  element_url: 'https://matrix.to/#/@ternera:matrix.org'
+  matrix_url: 'https://matrix.to/#/@ternera:matrix.org'
 
 
 color_settings:
