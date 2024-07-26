@@ -7,11 +7,11 @@ featured_image: ''
 accent_color: '#79589F'
 --- 
 
-I help out as an Administrator on Wikipedia. Most of my time is spent keeping the Kinyarwanda version of the site clean and free of spam. I also help as a global rollbacker on Wikipedia, which gives me the ability to mass revert edits from other editors.
+In some of my free time, I help out as an Administrator on Wikipedia. Most of my time there is spent keeping the Kinyarwanda version of the site clean and free of spam. I also help as a global rollbacker on the site, which gives me the technical ability to mass revert problematic edits.
 
-Occasionally, I'll play games like Counter-Strike 2 or Minecraft. I'm not a competative or experienced gamer by any means, but it's fun to sit back and enjoy a gaming session with friends sometimes!
+Occasionally, I'll play games like Counter-Strike 2 or Minecraft. I'm not a competitive or experienced gamer by any means, but it's fun to sit back and enjoy a gaming session with friends sometimes!
 
-I'm a firm believer in [touching grass](https://en.wiktionary.org/wiki/touch_grass) sometimes and highly recommend it. Get outside and do things! 😀
+I'm a firm believer in [touching grass](https://en.wiktionary.org/wiki/touch_grass) and highly recommend it. Get outside and do things! 😀
 
 
 <!--## Useful Links:
