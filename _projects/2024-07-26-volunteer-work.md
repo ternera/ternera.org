@@ -1,16 +1,21 @@
 ---
-title: Wikipedia Administrator Work
-subtitle: Cleaning up Wikipedia.
-date: 2014-08-01 23:35:11 PDT
-description: I'm an administrator on Wikipedia. Most of my time is spent keeping the Kinyarwanda version of the site clean and free of spam.
+title: Things I Do In My Spare Time
+subtitle: Ternera has free time?
+date: 2024-07-26 23:35:11 PDT
+description: Wikipedia, Games, Sports
 featured_image: ''
 accent_color: '#79589F'
 --- 
 
-I work as an Administrator on Wikipedia. Most of my time is spent keeping the Kinyarwanda version of the site clean and free of spam.
+I help out as an Administrator on Wikipedia. Most of my time is spent keeping the Kinyarwanda version of the site clean and free of spam. I also help as a global rollbacker on Wikipedia, which gives me the ability to mass revert edits from other editors.
 
-## Useful Links:
-[Help:Cheatsheet](https://en.wikipedia.org/wiki/Help:Cheatsheet)\
+Occasionally, I'll play games like Counter-Strike 2 or Minecraft. I'm not a competative or experienced gamer by any means, but it's fun to sit back and enjoy a gaming session with friends sometimes!
+
+I'm a firm believer in [touching grass](https://en.wiktionary.org/wiki/touch_grass) sometimes and highly recommend it. Get outside and do things! 😀
+
+
+<!--## Useful Links:
+ [Help:Cheatsheet](https://en.wikipedia.org/wiki/Help:Cheatsheet)\
 [Wikipedia:Glossary](https://en.wikipedia.org/wiki/Wikipedia:Glossary)\
 [Wikipedia:Reference_desk](https://en.wikipedia.org/wiki/Wikipedia:Reference_desk)\
 [Articles_for_deletion](https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion)\
@@ -41,5 +46,4 @@ Although I have never been part of it, the [CVU (Counter Vandalism Unit)](Wikipe
 
 [Commons:How_to_detect_copyright_violations](https://commons.wikimedia.org/wiki/Commons:How_to_detect_copyright_violations)\
 [Commons:Deletion_policy#Copyright_violation](https://commons.wikimedia.org/wiki/Commons:Deletion_policy#Copyright_violation)\
-[Special:NewFiles](https://commons.wikimedia.org/wiki/Special:NewFiles)\
-
+[Special:NewFiles](https://commons.wikimedia.org/wiki/Special:NewFiles)\ -->
