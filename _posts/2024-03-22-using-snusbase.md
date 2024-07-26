@@ -1,7 +1,7 @@
 ---
 title: Using Snusbase for the First Time
 date: 2024-03-22 00:00:00 -0800
-featured_image: '/images/posts/snusbase.png'
+featured_image: '/images/posts/snusbase-banner.png'
 ---
 
 For the first time today, I tried using the data breach search engine: Snusbase. I was amazed at the amounts of information that this search engine can provide by giving it an email address or username. I found it interesting to search for some of my older and no longer used email addresses and for other unused aliases to see if they could be linked back to me now.
