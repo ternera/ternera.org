@@ -1,7 +1,7 @@
 ---
 title: First Impressions About Windows Configuration Designer
 date: 2024-06-11 00:00:00 -0800
-featured_image: '/images/posts/wcd.png'
+featured_image: '/images/posts/windows-configuration-designer-banner.png'
 ---
 
  I had the opportunity to try out Windows Configuration Designer recently. My hope was that it would make new installations of Windows easier and quicker by automating the repetative parts.
