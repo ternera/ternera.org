@@ -1,7 +1,7 @@
 ---
 title: Things I Do In My Spare Time
 subtitle: Ternera has free time?
-date: 2024-07-26 23:35:11 PDT
+date: 2024-07-25 23:35:11 PDT
 description: Wikipedia, Games, Sports
 featured_image: ''
 accent_color: '#79589F'
