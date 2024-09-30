@@ -14,7 +14,7 @@ menu_settings:
       url: '/blog/'
 
 hero_settings:
-  background_image: /images/backgrounds/gradient.png
+  background_image: /images/backgrounds/images/backgrounds/background-hero.svg
 
 social_settings:
   reddit_url: 'https://reddit.com/u/ternera'
