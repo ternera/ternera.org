@@ -8,25 +8,25 @@ Wikipedia administrators are a small group on Wikipedia who hold advanced permis
 
 According to [[[WP:MOPRIGHTS]]](https://en.wikipedia.org/wiki/WP:MOPRIGHTS), here is a list of things that admins can do:
 
-* [Block](https://en.wikipedia.org/wiki/Wikipedia:Blocking_policy) and unblock user accounts, IP addresses, and IP ranges from editing
+*[Block](https://en.wikipedia.org/wiki/Wikipedia:Blocking_policy) and unblock user accounts, IP addresses, and IP ranges from editing
 
-* Apply, modify, and remove [page protection](https://en.wikipedia.org/wiki/Wikipedia:Protection_policy) on a particular page to restrict or allow editing, moving, or creation
+*Apply, modify, and remove [page protection](https://en.wikipedia.org/wiki/Wikipedia:Protection_policy) on a particular page to restrict or allow editing, moving, or creation
 
-* [Delete](https://en.wikipedia.org/wiki/Wikipedia:Deletion_policy) pages with 5,000 or fewer revisions
+*[Delete](https://en.wikipedia.org/wiki/Wikipedia:Deletion_policy) pages with 5,000 or fewer revisions
 
-* Grant and revoke certain user permissions [requested by user accounts](https://en.wikipedia.org/wiki/Wikipedia:Requests_for_permissions)
+*Grant and revoke certain user permissions [requested by user accounts](https://en.wikipedia.org/wiki/Wikipedia:Requests_for_permissions)
 
-* [View and restore deleted pages](https://en.wikipedia.org/wiki/Wikipedia:Viewing_and_restoring_deleted_pages)
+*[View and restore deleted pages](https://en.wikipedia.org/wiki/Wikipedia:Viewing_and_restoring_deleted_pages)
 
-* [Restrict and restore public visibility](https://en.wikipedia.org/wiki/Wikipedia:RevDel) of information in individual logs and page revisions
+*[Restrict and restore public visibility](https://en.wikipedia.org/wiki/Wikipedia:RevDel) of information in individual logs and page revisions
 
-* Edit fully protected pages
+*Edit fully protected pages
 
-* Edit pages in the MediaWiki namespace, excluding JavaScript and CSS pages
+*Edit pages in the MediaWiki namespace, excluding JavaScript and CSS pages
 
-* [Move](https://en.wikipedia.org/wiki/Help:Moving_a_page) a page to any desired title
+*[Move](https://en.wikipedia.org/wiki/Help:Moving_a_page) a page to any desired title
 
-* Perform other special actions as listed at [Special:ListGroupRights § sysop](https://en.wikipedia.org/wiki/Special:ListGroupRights#sysop)
+*Perform other special actions as listed at [Special:ListGroupRights § sysop](https://en.wikipedia.org/wiki/Special:ListGroupRights#sysop)
 
 Below are screenshots and explanations of these tools. I’m using the Public Test Wiki as an example, where the tools can be tested in an environment that does not disrupt Wikipeda.
 
