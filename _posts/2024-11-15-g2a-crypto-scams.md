@@ -1,5 +1,5 @@
 ---
-title: What do Wikipedia Administrators Actually Do?
+title: Deep Dive Into G2A Crypto Scams
 date: 2024-10-21 00:00:00 -0800
 featured_image: '/images/posts/g2a-bitcoin.png'
 ---
