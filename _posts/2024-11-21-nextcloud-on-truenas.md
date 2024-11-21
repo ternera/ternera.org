@@ -1,6 +1,6 @@
 ---
 title: Easiest Way to Install Nextcloud on TrueNAS
-date: 2024-11-24 00:00:00 -0800
+date: 2024-10-21 00:00:00 -0800
 featured_image: '/images/posts/nextcloud.png'
 ---
 
