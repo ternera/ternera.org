@@ -182,23 +182,3 @@ $baseurl: '{{ site.baseurl }}';
 
 @import "_includes/_section__listing";
 @import "_includes/_section__hero";
-
-// Dark Mode Styles
-[data-theme="dark"] {
-    body {
-      background-color: #121212;
-      color: #ffffff;
-    }
-    .header--main {
-      background-color: #1e1e1e;
-    }
-    .button--fill {
-      background-color: #333333;
-      color: #ffffff;
-    }
-    .project__preview {
-      background-color: #1e1e1e;
-      border-color: #333333;
-    }
-    // Add more styles as needed...
-  }
