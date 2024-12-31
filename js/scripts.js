@@ -43,4 +43,20 @@ $(document).ready(function() {
             });
         });
     });
+
+    // Light/Dark Mode Toggle
+    var modeToggle = $('#mode-toggle');
+    modeToggle.on('click', function() {
+        $('body').toggleClass('dark-mode');
+        if ($('body').hasClass('dark-mode')) {
+            localStorage.setItem('mode', 'dark');
+        } else {
+            localStorage.setItem('mode', 'light');
+        }
+    });
+
+    // Set initial mode based on localStorage
+    if (localStorage.getItem('mode') === 'dark') {
+        $('body').addClass('dark-mode');
+    }
 });

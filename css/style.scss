@@ -182,3 +182,30 @@ $baseurl: '{{ site.baseurl }}';
 
 @import "_includes/_section__listing";
 @import "_includes/_section__hero";
+
+// Light and Dark Mode styles
+
+body {
+    &.dark-mode {
+        background-color: #121212;
+        color: #ffffff;
+        // Add more dark mode styles as needed
+    }
+}
+
+// Toggle button styles
+#mode-toggle {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: #ffffff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 1000;
+
+    &.dark-mode {
+        background-color: #333333;
+        color: #ffffff;
+    }
+}
