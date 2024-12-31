@@ -44,19 +44,18 @@ $(document).ready(function() {
         });
     });
 
-    // Light/Dark Mode Toggle
-    var modeToggle = $('#mode-toggle');
-    modeToggle.on('click', function() {
-        $('body').toggleClass('dark-mode');
-        if ($('body').hasClass('dark-mode')) {
-            localStorage.setItem('mode', 'dark');
-        } else {
-            localStorage.setItem('mode', 'light');
-        }
-    });
-
-    // Set initial mode based on localStorage
-    if (localStorage.getItem('mode') === 'dark') {
-        $('body').addClass('dark-mode');
-    }
-});
+        // Theme Toggle
+        const themeToggle = document.getElementById('theme-toggle');
+        const currentTheme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', currentTheme);
+      
+        themeToggle.addEventListener('click', function() {
+          let theme = document.documentElement.getAttribute('data-theme');
+          if (theme === 'light') {
+            theme = 'dark';
+          } else {
+            theme = 'light';
+          }
+          document.documentElement.setAttribute('data-theme', theme);
+          localStorage.setItem('theme', theme);
+        });
